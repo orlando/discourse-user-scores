@@ -1,0 +1,10 @@
+en:
+  site_settings:
+    user_scores_enabled: "Enable user scores"
+    user_scores_like_received_points: "Points for likes received"
+    user_scores_like_given_points: "Points for likes given"
+    user_scores_topic_points: "Points for topics created"
+    user_scores_topic_entered_points: "Points for topics entered"
+    user_scores_post_points: "Points for posts created"
+    user_scores_post_read_points: "Points for posts read"
+    user_scores_day_visited_points: "Points for days visited"

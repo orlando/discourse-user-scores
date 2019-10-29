@@ -1,0 +1,39 @@
+plugins:
+  user_scores_enabled:
+    client: false
+    default: true
+  user_scores_like_received_points:
+    client: false
+    default: 1
+    max: 1000
+    min: 0
+  user_scores_like_given_points:
+    client: false
+    default: 1
+    max: 1000
+    min: 0
+  user_scores_topic_points:
+    client: false
+    default: 1
+    max: 1000
+    min: 0
+  user_scores_topic_entered_points:
+    client: false
+    default: 1
+    max: 1000
+    min: 0
+  user_scores_post_points:
+    client: false
+    default: 1
+    max: 1000
+    min: 0
+  user_scores_post_read_points:
+    client: false
+    default: 1
+    max: 1000
+    min: 0
+  user_scores_day_visited_points:
+    client: false
+    default: 1
+    max: 1000
+    min: 0
